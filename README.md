@@ -24,6 +24,8 @@ An intelligent, multi-agent AI campus assistant built with **LangGraph**, **Lang
 
 ```
 
+---
+
 ## 🤖 System Architecture
 The core of this project uses an Orchestrator Pattern to dynamically route user queries across domain-specialized agents:
 
