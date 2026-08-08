@@ -1,0 +1,12 @@
+[
+  {"student_id": "VCE21CS001", "name": "Aarav Mehta", "branch": "CSE (AIML)", "year": 2, "cgpa": 8.7, "attendance_percentage": 91.5},
+  {"student_id": "VCE21CS002", "name": "Priya Nair", "branch": "CSE", "year": 3, "cgpa": 9.1, "attendance_percentage": 88.2},
+  {"student_id": "VCE21EC003", "name": "Rohan Verma", "branch": "ECE", "year": 1, "cgpa": 7.8, "attendance_percentage": 76.4},
+  {"student_id": "VCE21IT004", "name": "Sneha Reddy", "branch": "IT", "year": 4, "cgpa": 8.3, "attendance_percentage": 94.0},
+  {"student_id": "VCE21ME005", "name": "Kabir Singh", "branch": "Mechanical", "year": 2, "cgpa": 6.9, "attendance_percentage": 68.7},
+  {"student_id": "VCE21CS006", "name": "Ananya Iyer", "branch": "CSE (AIML)", "year": 2, "cgpa": 9.4, "attendance_percentage": 96.3},
+  {"student_id": "VCE21CE007", "name": "Vivaan Joshi", "branch": "Civil", "year": 3, "cgpa": 7.2, "attendance_percentage": 81.9},
+  {"student_id": "VCE21CS008", "name": "Ishita Kapoor", "branch": "CSE", "year": 1, "cgpa": 8.0, "attendance_percentage": 85.5},
+  {"student_id": "VCE21EE009", "name": "Arjun Rao", "branch": "EEE", "year": 4, "cgpa": 7.5, "attendance_percentage": 73.1},
+  {"student_id": "VCE21IT010", "name": "Diya Sharma", "branch": "IT", "year": 3, "cgpa": 8.9, "attendance_percentage": 90.8}
+]
