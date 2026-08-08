@@ -1,5 +1,22 @@
-ACADEMIC & EXAMINATION REGULATIONS 2026:
-1. Attendance Requirement: Students must maintain a minimum of 75% overall attendance to be eligible to sit for end-semester examinations.
-2. Makeup Exams: Students with attendance between 65% and 74% due to medical reasons or official college representations may apply for a makeup exam with the Dean of Academics.
-3. Placement Eligibility: Students eligible for campus placements must have no active backlogs and a minimum CGPA of 6.5.
-4. Library Rules: Up to 4 books can be borrowed at a time for a duration of 14 days. Re-issuance is allowed once.
+==================================================
+CAMPUS POLICIES AND ACADEMIC REGULATIONS 2026
+==================================================
+
+1. ACADEMIC & ATTENDANCE REGULATIONS:
+   - Attendance Threshold: Students must maintain an overall minimum attendance of 75% per semester.
+   - Attendance Warning: Attendance falling between 65% and 74% will trigger an official academic warning.
+   - Medical Exemption & Makeup Exams: Students having attendance between 65% and 74% due to verified medical emergencies may file a request with medical documentation within 7 days to qualify for makeup exams.
+   - Attendance Ineligibility: Students with attendance below 65% are strictly barred from appearing in end-semester examinations.
+
+2. PLACEMENT CELL POLICY:
+   - Eligibility Cutoff: A minimum CGPA of 6.5 with 0 active backlogs is mandatory to participate in campus recruitment drives.
+   - One Student, One Offer Policy: Once a student secures a job offer higher than 10 LPA, they will be deregistered from future lower-tier drives.
+   - Dress Code & Punctuality: Formal business attire is mandatory for all interview rounds. Lateness exceeds 10 minutes leads to immediate disqualification.
+
+3. LIBRARY & RESOURCE REGULATIONS:
+   - Standard Overdue Fine: A fine of ₹5 per book per day is charged for late returns after the 14-day borrowing period.
+   - Lost Book Policy: Loss of any borrowed book requires replacement with the latest edition or payment of twice the book's current market value.
+
+4. HOSTEL & DISCIPLINE POLICY:
+   - Gate Timings: In-time for all residential hostels is strictly 9:30 PM. Late entry requires prior approval from the Chief Warden.
+   - Anti-Ragging Mandatory Rule: Zero tolerance policy toward ragging. Violation leads to immediate suspension and legal reporting.

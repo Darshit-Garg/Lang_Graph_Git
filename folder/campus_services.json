@@ -1,0 +1,31 @@
+{
+  "hostel": {
+    "curfew_time": "9:30 PM",
+    "mess_timings": "Breakfast: 7:30-9:00 AM | Lunch: 12:00-2:00 PM | Dinner: 7:30-9:00 PM",
+    "warden_contact": "warden@campus.edu | Office: Block A-102"
+  },
+  "library": {
+    "timing": "8:00 AM - 10:00 PM (Mon-Sat)",
+    "borrowing_limit": "4 Books for 14 Days",
+    "digital_portal": "https://library.campus.edu"
+  },
+  "transport": {
+    "bus_routes": ["Route 1: City Center", "Route 2: Metro Station", "Route 3: North Suburbs"],
+    "morning_arrival": "8:15 AM",
+    "evening_departure": "4:45 PM"
+  },
+  "upcoming_events": [
+    {
+      "event_id": "EVT-2026-01",
+      "name": "Annual AI/ML Hackathon",
+      "date": "2026-09-05",
+      "location": "Auditorium Hall B"
+    },
+    {
+      "event_id": "EVT-2026-02",
+      "name": "Resume & ATS Optimization Workshop",
+      "date": "2026-09-12",
+      "location": "Seminar Room 3"
+    }
+  ]
+}

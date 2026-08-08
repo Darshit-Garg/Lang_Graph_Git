@@ -1,0 +1,63 @@
+{
+  "companies": {
+    "TCS": {
+      "role": "Ninja (Developer)",
+      "min_cgpa": 6.0,
+      "min_year": 3,
+      "branch_allowed": ["CSE", "CSE (AIML)", "IT", "ECE", "EEE", "Mechanical", "Civil"]
+    },
+    "Infosys": {
+      "role": "Systems Engineer",
+      "min_cgpa": 6.5,
+      "min_year": 3,
+      "branch_allowed": ["CSE", "CSE (AIML)", "IT", "ECE", "EEE"]
+    },
+    "Amazon": {
+      "role": "SDE-1",
+      "min_cgpa": 7.5,
+      "min_year": 4,
+      "branch_allowed": ["CSE", "CSE (AIML)", "IT"]
+    },
+    "Microsoft": {
+      "role": "SWE (Intern+FTE)",
+      "min_cgpa": 8.0,
+      "min_year": 3,
+      "branch_allowed": ["CSE", "CSE (AIML)", "IT", "ECE"]
+    },
+    "Google": {
+      "role": "STEP Intern",
+      "min_cgpa": 8.5,
+      "min_year": 2,
+      "branch_allowed": ["CSE", "CSE (AIML)"]
+    }
+  },
+  "drives_schedule": [
+    {
+      "company": "Google",
+      "role": "STEP Intern",
+      "ctc": "1.2L/month Stipend",
+      "drive_date": "2026-09-15",
+      "deadline": "2026-09-10"
+    },
+    {
+      "company": "Microsoft",
+      "role": "SWE Intern/FTE",
+      "ctc": "51 LPA",
+      "drive_date": "2026-09-20",
+      "deadline": "2026-09-12"
+    },
+    {
+      "company": "Amazon",
+      "role": "SDE-1",
+      "ctc": "32 LPA",
+      "drive_date": "2026-10-01",
+      "deadline": "2026-09-25"
+    }
+  ],
+  "statistics": {
+    "highest_ctc": "52 LPA (Microsoft)",
+    "average_ctc": "9.8 LPA",
+    "placement_percentage": "88.4%",
+    "top_sector": "Software & AI/ML (62%)"
+  }
+}
